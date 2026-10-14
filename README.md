@@ -2,7 +2,7 @@
 An interactive 5-page Power BI dashboard analysing sales, profit, products, customers, regions, discounts and shipping, built on the Superstore sample dataset.
 
 #Dataset
-Superstore sample dataset: [public practice data]
+Superstore sample dataset
 
 #Tools
 Power BI Desktop, DAX, Power Query, Data Modeling
